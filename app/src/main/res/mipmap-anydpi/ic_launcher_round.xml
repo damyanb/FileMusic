@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Flat fallback icon for API 24-25 devices, which predate adaptive icons (API 26+). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h108v108h-108z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F3A9A0"
+        android:strokeWidth="4"
+        android:pathData="M32,32 h44 v44 h-44 z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F3A9A0"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,43 L37,65 M37,43 L47,43 M37,55 L45,55" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F3A9A0"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M49,65 L49,43 L55.5,55 L62,43 L62,65" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F3A9A0"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M68,43 L68,65 M64,49 L72,49" />
+</vector>

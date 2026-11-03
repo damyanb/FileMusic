@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base window theme. The real theming (bichromatic + accent color) is
+         owned entirely by Compose at runtime; this only avoids a flash of an
+         unrelated color before Compose draws the first frame. -->
+    <style name="Theme.FileMusic" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_default_pastel</item>
+        <item name="android:windowBackground">@color/win_white</item>
+        <item name="android:statusBarColor">@color/win_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
